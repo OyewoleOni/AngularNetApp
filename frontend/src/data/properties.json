@@ -1,30 +1,40 @@
 [
   {
   "Id": 1,
+  "SellRent": 1,
   "Name": "Birla House",
   "Type": "House",
-  "Price":1200
+  "Price":1200,
+  "Image": "prop-1"
 },
 {
   "Id": 2,
+  "SellRent": 2,
   "Name": "Erose Villa",
   "Type": "House",
-  "Price":1300
+  "Price":1300,
+  "Image": "prop-2"
+
 },
 {
   "Id": 3,
+  "SellRent": 1,
   "Name": "Oni white House",
   "Type": "House",
-  "Price":1800
+  "Price":1800,
+  "Image": "prop-3"
 },
 {
   "Id": 4,
+  "SellRent": 2,
   "Name": "Oye Villa",
   "Type": "House",
-  "Price":2200
+  "Price":2200,
+  "Image": "prop-4"
 },
 {
   "Id": 5,
+  "SellRent": 1,
   "Name": "Pearl Villa",
   "Type": "House",
   "Price":2400
